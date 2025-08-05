@@ -60,8 +60,10 @@ Here are some ideas to get you started:
 
 [![GitHub](https://img.shields.io/badge/GitHub-@NekoTheDev-181717?style=flat&logo=github)](https://github.com/NekoTheDev)
 [![Email](https://img.shields.io/badge/email-mtmn261509%40gmail.com-ff79c6?style=flat&logo=gmail)](mailto:mtmn261509@gmail.com)
-[![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visualstudiocode)](https://code.visualstudio.com/)
-
+[![Editor](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Tool](https://img.shields.io/badge/Tool-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://figma.com/)
+[![Tool](https://img.shields.io/badge/Tool-Adobe-FF0000?style=flat&logo=adobe&logoColor=white)](https://www.adobe.com/)
+[![Discord](https://img.shields.io/badge/Discord-NekoTheDev%230001-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
 ---
 
 <p align="center" style="color:#666;">
