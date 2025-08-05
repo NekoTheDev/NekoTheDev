@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 ### 📫 Contact & Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-@NekoDev-181717?style=flat&logo=github)](https://github.com/NekoTheDev)
-[![Email](https://img.shields.io/badge/email-neko.dev%40example.com-ff79c6?style=flat&logo=gmail)](mailto:mtmn261509@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@NekoTheDev-181717?style=flat&logo=github)](https://github.com/NekoTheDev)
+[![Email](https://img.shields.io/badge/email-mtmn261509%40gmail.com-ff79c6?style=flat&logo=gmail)](mailto:mtmn261509@gmail.com)
 [![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visualstudiocode)](https://code.visualstudio.com/)
 
 ---
