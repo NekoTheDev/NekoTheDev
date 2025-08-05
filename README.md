@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40">
-  Hey, I'm <span style="color:#ff79c6;">NekoDev</span> 🐾
+  Hey, I'm <span style="color:#ff79c6;">NekoTheDev</span> 🐾
 </h1>
 
 <p align="center">
@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 ### 🌌 Tech Stack
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://img.icons8.com/?size=100&id=FnnFuAIw4e8j&format=png&color=000000" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+  <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=FnnFuAIw4e8j&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000" width="40"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 | Name | Description |
 |------|-------------|
-| 🕶 `Stalker1ST` | My old alias. It's still watching... 👀 |
+| 🕶 `StalkCat` | My old alias. It's still watching... 👀 |
 
 ---
 
