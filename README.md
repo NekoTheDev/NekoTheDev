@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" />
-  Hey, I'm <span style="color:#ff79c6;">NekoTheDev</span> 🐾
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" alt="NekoTheDev cat" />
+  Hey, I'm <span style="color:#08529B;">NekoTheDev</span> 🐾
 </h1>
+
+
 
 <p align="center">
   Just a front-end developer with cat-like reflexes.<br />
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌌 Tech Stack
+## ​ Tech Stack
 
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="40" alt="HTML" />
@@ -40,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧪 Side Projects
+## ​ Side Projects
 
 | Name | Description |
 |------|-------------|
@@ -48,19 +50,24 @@ Here are some ideas to get you started:
 
 ---
 
-## ✨ Fun Dev Facts
+## ​ Fun Dev Facts
 
-- 🐾 Centering a `div` used to haunt me – not anymore.
-- 🎧 Best code comes with lo-fi and midnight snacks.
-- 😼 Dark mode isn’t a choice – it’s a lifestyle.
+- 🐾 Centering a `div` used to haunt me – not anymore.  
+- 🎧 Best code comes with lo-fi and midnight snacks.  
+- 😼 Dark mode isn’t a choice – it’s a lifestyle.  
 
 ---
 
-## 📊 GitHub Stats 🐾
+## ​ GitHub Stats 🐾
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NekoTheDev&show_icons=true&theme=dracula&hide_border=true&icon_color=ff79c6" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=dracula&hide_border=true&title_color=ff79c6" alt="Top Languages" height="160" />
+</p>
+
+## ​ Top Languages 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=dracula&hide_border=true&title_color=ff79c6&langs_count=3" alt="Top Languages" height="130" />
 </p>
 
 <p align="center">
@@ -69,7 +76,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Contact & Links
+## ​ Contact & Links
 
 <p align="center">
   <a href="https://github.com/NekoTheDev">
@@ -82,6 +89,3 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  🖤 Thanks for visiting my cozy dark corner of GitHub
-</p>
