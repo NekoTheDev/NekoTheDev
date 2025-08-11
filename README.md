@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=NekoTheDev&show_icons=true&theme=dracula&hide_border=true&icon_color=ff79c6" alt="GitHub stats" height="160" />
 </p>
 
-## ​ Top Languages 
+## ​ Most Used Languages 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=dracula&hide_border=true&title_color=ff79c6&langs_count=3" alt="Top Languages" height="130" />
