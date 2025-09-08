@@ -61,21 +61,25 @@ Here are some ideas to get you started:
 ## ​ GitHub Stats 🐾
  
 
+
+  
+
 <div align="center">
 
-### 📝 Overall Stats
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NekoTheDev&show_icons=true&theme=radical" />
+### 📝 Overall Stats  
+<img width="300px" src="https://github-readme-stats.vercel.app/api?username=NekoTheDev&show_icons=true&theme=radical" />
 
-### 🔥 Streak Stats
-<img width="48%" src="https://streak-stats.demolab.com?user=NekoTheDev&theme=radical" />
+### 🔥 Streak Stats  
+<img width="300px" src="https://streak-stats.demolab.com?user=NekoTheDev&theme=radical" />
 
-### 💡 Most Used Languages
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=radical" />
+### 💡 Most Used Languages  
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=radical" />
 
-### 🏆 GitHub Trophies
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=NekoTheDev&theme=radical&row=1&column=6" />
+### 🏆 GitHub Trophies  
+<img width="600px" src="https://github-profile-trophy.vercel.app/?username=NekoTheDev&theme=radical&row=1&column=6" />
 
 </div>
+
 
 ---
 
