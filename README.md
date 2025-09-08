@@ -59,20 +59,23 @@ Here are some ideas to get you started:
 ---
 
 ## ​ GitHub Stats 🐾
+ 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NekoTheDev&show_icons=true&theme=dracula&hide_border=true&icon_color=ff79c6" alt="GitHub stats" height="160" />
-</p>
+<div align="center">
 
-## ​ Most Used Languages 
+### 📝 Overall Stats
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NekoTheDev&show_icons=true&theme=radical" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=dracula&hide_border=true&title_color=ff79c6&langs_count=3" alt="Top Languages" height="130" />
-</p>
+### 🔥 Streak Stats
+<img width="48%" src="https://streak-stats.demolab.com?user=NekoTheDev&theme=radical" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdtdjdmOHFjbm83ZnlkYW10bm9lc3M2aWt3NnJtbWg0eXZwaTQyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6jscXfv3AkWQ/giphy.gif" width="60" alt="Cat paw" />
-</p>
+### 💡 Most Used Languages
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=radical" />
+
+### 🏆 GitHub Trophies
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=NekoTheDev&theme=radical&row=1&column=6" />
+
+</div>
 
 ---
 
