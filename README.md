@@ -17,27 +17,54 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" alt="NekoTheDev cat" />
-  Hey, I'm <span style="color:#08529B;">NekoTheDev</span> 🐾
+  Xin chào, tôi là <span style="color:#08529B;">NekoTheDev</span> 🐾
 </h1>
 
 
+---
 
-<p align="center">
-  Just a front-end developer with cat-like reflexes.<br />
-  I purr in <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, and sometimes <code>Tailwind</code> under the moonlight.
-</p>
+## 📖 About Me
+Mình là một **Fullstack Developer** yêu thích việc xây dựng các ứng dụng web hiện đại với trải nghiệm người dùng mượt mà.  
+Mình luôn tìm kiếm cơ hội để:
+- Phát triển sản phẩm chất lượng cao từ frontend đến backend
+- Tối ưu hóa hiệu năng & trải nghiệm người dùng
+- Áp dụng công nghệ mới để giải quyết vấn đề thực tế
 
 ---
 
-## ​ Tech Stack
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="40" alt="HTML" />
-  <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" width="40" alt="CSS" />
-  <img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" width="40" alt="JavaScript" />
-  <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" width="40" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/?size=100&id=FnnFuAIw4e8j&format=png&color=000000" width="40" alt="Git" />
-  <img src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000" width="40" alt="VS Code" />
+### 🖌 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### ⚙ Backend  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### ☁ DevOps & Cloud  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+</p>
+
+### 🔧 Others  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ---
@@ -47,6 +74,8 @@ Here are some ideas to get you started:
 | Name | Description |
 |------|-------------|
 | 🕶 `StalkCat` | My old alias. Still watching... 👀 |
+| `Portfolio` | No emoji...  |
+
 
 ---
 
