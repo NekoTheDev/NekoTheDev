@@ -23,12 +23,20 @@ Here are some ideas to get you started:
 
 ---
 
-## 📖 About Me
-Mình là một **Fullstack Developer** yêu thích việc xây dựng các ứng dụng web hiện đại với trải nghiệm người dùng mượt mà.  
-Mình luôn tìm kiếm cơ hội để:
-- Phát triển sản phẩm chất lượng cao từ frontend đến backend
-- Tối ưu hóa hiệu năng & trải nghiệm người dùng
-- Áp dụng công nghệ mới để giải quyết vấn đề thực tế
+📖 About Me
+
+Xin chào! Mình là một học sinh THPT yêu thích công nghệ và đặc biệt hứng thú với lập trình web.
+Mình đang trên hành trình rèn luyện để trở thành một **Fullstack Developer** trong tương lai.
+
+💡 Mình luôn cố gắng:
+
+🚀 Học hỏi và thực hành các công nghệ mới
+
+🛠️ Xây dựng những dự án nhỏ để nâng cao kỹ năng
+
+⚡ Nâng cao tư duy giải quyết vấn đề
+
+🤝 Kết nối và học hỏi từ cộng đồng lập trình
 
 ---
 
