@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" alt="NekoTheDev cat" />
-  Xin chào, tôi là <span style="color:#08529B;">NekoTheDev</span> 🐾
+  Xin chào, tôi là <span style="color:#08529B;">Neko</span> 🐾
 </h1>
 
 
