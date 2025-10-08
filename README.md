@@ -39,7 +39,6 @@ Mình đang trên hành trình rèn luyện để trở thành một **Fullstack
 
 ---
 
-## ⚡ Tech Stack
 
 ## ⚡ Tech Stack
 
