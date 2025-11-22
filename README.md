@@ -113,7 +113,7 @@ Mình đang trên hành trình rèn luyện để trở thành một **Fullstack
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=radical" />
 
 ### 🏆 GitHub Trophies  
-<img width="600px" src="![Trophy](https://github-profile-trophy.vercel.app/?username=NekoTheDev&theme=radical&column=7&row=2)" />
+<img width="600px" src="[![trophy](https://github-profile-trophy.vercel.app/?username=NekoTheDev&theme=radical)](https://github.com/NekoTheDev/github-profile-trophy)" />
 
 </div>
 
