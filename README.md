@@ -117,6 +117,13 @@ Mình đang trên hành trình rèn luyện để trở thành một **Fullstack
 
 </div>
 
+### :pencil: My Contributions
+
+<div align="center">
+
+![snake gif](https://github.com/NekoTheDev/NekoTheDev/blob/output/github-contribution-grid-snake.gif)
+  
+</div>
 
 ---
 
