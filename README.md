@@ -107,7 +107,7 @@ Mình đang trên hành trình rèn luyện để trở thành một **Fullstack
 <img width="300px" src="https://github-readme-stats.vercel.app/api?username=NekoTheDev&show_icons=true&theme=radical" />
 
 ### 🔥 Streak Stats  
-<img width="300px" src="https://streak-stats.demolab.com?user=NekoTheDev&theme=radical" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=NekoTheDev&theme=radical)](https://git.io/streak-stats)
 
 ### 💡 Most Used Languages  
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=radical" />
