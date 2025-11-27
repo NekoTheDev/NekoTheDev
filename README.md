@@ -110,7 +110,7 @@ Mình đang trên hành trình rèn luyện để trở thành một **Fullstack
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=radical" />
 
  <a href="#" title="NekoTheDev">
-    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=donut&theme=radical"/>
+    <img width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=donut&theme=radical"/>
   </a>
 </div>
 
