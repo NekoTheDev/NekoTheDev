@@ -106,15 +106,12 @@ Mình đang trên hành trình rèn luyện để trở thành một **Fullstack
 ### 📝 Overall Stats  
 <img width="300px" src="https://github-readme-stats.vercel.app/api?username=NekoTheDev&show_icons=true&theme=radical" />
 
-### 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=NekoTheDev&theme=radical)](https://git.io/streak-stats)
-
 ### 💡 Most Used Languages  
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=radical" />
 
-### 🏆 GitHub Trophies  
-<img width="600px" src="[![trophy]([https://github-profile-trophy.vercel.app/?username=NekoTheDev&theme=radical])(https://github.com/NekoTheDev/github-profile-trophy)" />
-
+ <a href="#" title="NekoTheDev">
+    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=donut&theme=radical"/>
+  </a>
 </div>
 
 ### :pencil: My Contributions
