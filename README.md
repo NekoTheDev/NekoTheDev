@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  Xin chào, tôi là <span style="color:#08529B;">Neko</span> 🐾
+  Hello there, I'm <span style="color:#08529B;">Neko</span> 🐾
 </h1>
 
 
