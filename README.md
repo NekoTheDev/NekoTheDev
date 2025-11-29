@@ -24,18 +24,17 @@ Here are some ideas to get you started:
 
 📖 About Me
 
-Xin chào! Mình là một học sinh THPT yêu thích công nghệ và đặc biệt hứng thú với lập trình web.
-Mình đang trên hành trình rèn luyện để trở thành một **Fullstack Developer** trong tương lai.
+Hello! I’m a high school student who loves technology and is especially passionate about web development. I’m currently on a journey to develop my skills and become a **Fullstack Developer** in the future.
 
-💡 Mình luôn cố gắng:
+💡 I always strive to:
 
-🚀 Học hỏi và thực hành các công nghệ mới
+🚀 Learn and practice new technologies
 
-🛠️ Xây dựng những dự án nhỏ để nâng cao kỹ năng
+🛠️ Build small projects to improve my skills
 
-⚡ Nâng cao tư duy giải quyết vấn đề
+⚡ Strengthen my problem-solving mindset
 
-🤝 Kết nối và học hỏi từ cộng đồng lập trình
+🤝 Connect with and learn from the programming community
 
 ---
 
