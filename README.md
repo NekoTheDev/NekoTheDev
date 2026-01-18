@@ -102,6 +102,7 @@ Hello! I’m a high school student who loves technology and is especially passio
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=NekoTheDev&theme=radical&hide_border=true&locale=vi)](https://git.io/streak-stats)
 ### 📝 Overall Stats  
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=NekoTheDev&show_icons=true&theme=radical" />
 
