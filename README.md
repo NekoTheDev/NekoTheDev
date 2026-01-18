@@ -98,7 +98,7 @@ Hello! I’m a high school student who loves technology and is especially passio
 
 <div align="center">
   <img 
-    src="https://github-trophies.vercel.app/?username=Nekothedev&theme=onedark&no-frame=false&no-bg=false&margin-w=4" 
+    src="https://github-trophies.vercel.app/?username=Nekothedev&theme=radical&margin-w=2&row=1" 
     alt="GitHub Trophies - Achievements and Contributions" 
   />
 </div>
