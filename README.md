@@ -94,23 +94,54 @@ Hello! I’m a high school student who loves technology and is especially passio
 
 ---
 
-## ​ GitHub Stats 🐾
- 
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img 
+    src="https://github-trophies.vercel.app/?username=Nekothedev&theme=onedark&no-frame=false&no-bg=false&margin-w=4" 
+    alt="GitHub Trophies - Achievements and Contributions" 
+  />
+</div>
 
-  
+---
+
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NekoTheDev&theme=radical&hide_border=true&locale=vi)](https://git.io/streak-stats)
-### 📝 Overall Stats  
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=NekoTheDev&show_icons=true&theme=radical" />
 
-### 💡 Most Used Languages  
-<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=radical" />
+</div>
 
- <a href="#" title="NekoTheDev">
-    <img width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=donut&theme=radical"/>
+---
+
+## 📊 Overall GitHub Stats
+
+<div align="center">
+  <img 
+    width="400px" 
+    src="https://github-readme-stats.vercel.app/api?username=NekoTheDev&show_icons=true&theme=radical" 
+    alt="NekoTheDev GitHub Overall Stats"
+  />
+</div>
+
+---
+
+## 💡 Most Used Languages
+
+<div align="center">
+  <img 
+    width="300px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=compact&theme=radical" 
+    alt="Most Used Programming Languages"
+  />
+
+  <a href="#" title="NekoTheDev – Language Distribution">
+    <img 
+      width="270" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&layout=donut&theme=radical"
+      alt="Programming Languages Donut Chart"
+    />
   </a>
 </div>
 
