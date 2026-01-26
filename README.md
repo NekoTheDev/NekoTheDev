@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NekoTheDev&theme=radical&hide_border=true&locale=vi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NekoTheDev&theme=radical&hide_border=true&locale=zh)](https://git.io/streak-stats)
 
 </div>
 
